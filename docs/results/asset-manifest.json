@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-10-14T12:43:19.634416+00:00",
+  "publication_scope": "Selected media only; compact input previews are allowed, full inputs/geometry/models/implementation are excluded.",
+  "walkthrough": {
+    "scene": "C007",
+    "steps": 50000,
+    "gaussians": 2000000,
+    "frames": 1200,
+    "fps": 30,
+    "width": 810,
+    "height": 1440,
+    "duration_seconds": 40
+  },
+  "assets": [
+    {
+      "path": "docs/assets/reconstruction-teaser.jpg",
+      "bytes": 253817,
+      "sha256": "99e6d04f88b9d0563ea99469ad95ca6e25c65370b407761765d7ee6cfc14cb7c"
+    },
+    {
+      "path": "docs/assets/reconstruction-walkthrough.mp4",
+      "bytes": 19735117,
+      "sha256": "4b1c3fca1437509883d5644f741f208aafcbe2beb53ce779cec93411a934f6ce"
+    },
+    {
+      "path": "docs/assets/reconstruction-walkthrough-poster.png",
+      "bytes": 617588,
+      "sha256": "b2dc6b2b0fe1033939c16bcd465f354f493a295bc315fb586a8dced4522803c9"
+    },
+    {
+      "path": "docs/assets/reconstruction-walkthrough.gif",
+      "bytes": 6473785,
+      "sha256": "843b21895ca7c6c5ea2b924a5e8f7969d8a0110b7f555ee6f3b69ad8188ed52f"
+    },
+    {
+      "path": "docs/assets/pipeline.svg",
+      "bytes": 4137,
+      "sha256": "a03cbfbe8ed4f81e055e6b7ee5de8797c15605e50a54776ea108775f51806a8b"
+    },
+    {
+      "path": "docs/assets/iphone-app.svg",
+      "bytes": 4044,
+      "sha256": "f457eec525c4d78909a065eb61b002081608b7c199c9bcbebff986a9c08af05b"
+    },
+    {
+      "path": "docs/assets/pose-refinement.png",
+      "bytes": 179389,
+      "sha256": "ab06af949f7cdf721d0801a467bcc95fbd78521bdd4f89f30b3833dc3f0b2a32"
+    },
+    {
+      "path": "docs/assets/depth-alignment.png",
+      "bytes": 896759,
+      "sha256": "04ae4ea5c55503cdce4cc9ad2fe821f3fffa103acb3648b3ba2f57760bc85ec7"
+    },
+    {
+      "path": "docs/assets/geometry-comparison.png",
+      "bytes": 584145,
+      "sha256": "915e84b37e552e51db674ad27c1ffbc6d62faf14ea15a14e15a0e49c69df5f69"
+    },
+    {
+      "path": "docs/assets/c007-ablation.png",
+      "bytes": 78480,
+      "sha256": "2a34429972bc83651f68f1fa59aac8d65aea4f7a27461945c3db68bd8457847d"
+    }
+  ]
+}

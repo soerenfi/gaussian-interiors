@@ -1,0 +1,9 @@
+title = "Gaussian Interiors secret scanning"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "telegram-bot-token-supplemental"
+description = "Telegram bot credentials, including older bot ID lengths"
+regex = '''\b[0-9]{8,12}:[A-Za-z0-9_-]{30,50}\b'''

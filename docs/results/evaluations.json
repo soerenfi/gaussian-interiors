@@ -1,0 +1,34 @@
+{
+  "origin": "Previously saved evaluation metrics; not rerun for this showcase.",
+  "comparison_limit": "Captures, splits, configurations and schedules differ; not a controlled ablation.",
+  "runs": [
+    {
+      "run": "C007 MCMC + PPISP",
+      "steps": 50000,
+      "psnr": 28.67708456811826,
+      "ssim": 0.9159993957882085,
+      "lpips": 0.3572379180715104
+    },
+    {
+      "run": "June 28 ARKit MCMC + PPISP",
+      "steps": 30000,
+      "psnr": 26.160875972948578,
+      "ssim": 0.8777723375119661,
+      "lpips": 0.3183524687039225
+    },
+    {
+      "run": "June 28 pose-prior BA + PPISP",
+      "steps": 15000,
+      "psnr": 25.48484240080181,
+      "ssim": 0.8691596561356595,
+      "lpips": 0.3407029760511298
+    },
+    {
+      "run": "June 28 full SfM + PPISP",
+      "steps": 30000,
+      "psnr": 24.037757773148385,
+      "ssim": 0.8634337751488936,
+      "lpips": 0.32554406398221064
+    }
+  ]
+}

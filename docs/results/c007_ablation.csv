@@ -1,0 +1,5 @@
+run,steps,psnr_db,ssim,lpips,evidence
+c007_3dgrut,30000,27.11,0.897,0.379,historical_notes_2026-06-08
+c007_3dgrut_sdf,30000,27.05,0.896,0.380,historical_notes_2026-06-08
+c007_3dgrut_sdf_w05,30000,26.98,0.895,0.381,historical_notes_2026-06-08
+c007_3dgrut_depth,30000,26.12,0.892,0.388,historical_notes_2026-06-08
